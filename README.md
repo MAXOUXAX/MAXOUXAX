@@ -22,8 +22,8 @@
 
 ## 📊 Mes statistiques GitHub
 
-<a href="https://maxouxax.me/"><img src="https://github-readme-stats.vercel.app/api?username=maxouxax&show_icons=true&count_private=true&locale=fr&theme=react&hide_border=true&bg_color=00000000" alt="maxouxax" /></a>
-<a href="https://maxouxax.me/"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxouxax&show_icons=true&count_private=true&locale=fr&layout=compact&theme=react&hide_border=true&bg_color=00000000" alt="maxouxax" /></a>
+<a href="https://maxouxax.me/"><img src="https://github-readme-stats.vercel.app/api?username=maxouxax&show_icons=true&count_private=true&locale=fr&theme=react&hide_border=true&bg_color=0D1117" alt="maxouxax" /></a>
+<a href="https://maxouxax.me/"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxouxax&show_icons=true&count_private=true&locale=fr&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="maxouxax" /></a>
 
 ## ❤ Activité de mon compte GitHub
 
