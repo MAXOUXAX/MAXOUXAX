@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ À propos de moi
 
-- 🔭 Je travaille actuellement sur [KorusMC](https://github.com/KorusMC/)
+- 🔭 Je travaille actuellement sur [KorusMC](https://github.com/KorusMC/), [Raymond](https://github.com/MAXOUXAX/Raymond) et [Supervisor](https://github.com/MAXOUXAX/Supervisor)
 
 - 👨‍💻 Pour voir mes projets, [c'est par ici](https://maxouxax.me/projects/)
 
