@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋</h1>
-<h3 align="center">Étudiant en première année • BUT Informatique</h3>
+<h3 align="center">Étudiant en deuxième année • BUT Informatique</h3>
 
 ## 🙋‍♂️ À propos de moi
 
