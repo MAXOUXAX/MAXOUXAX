@@ -36,7 +36,7 @@
 <h4>🌐 <code>/</code> where to find me:</h4>
 
 <a href="https://www.youtube.com/MAXOUXAX" target="_blank" style="text-decoration: none;">
-<img src="https://raw.githubusercontent.com/maxouxax/maxouxax/main/assets/youtube.svg" height="20" style="vertical-align: middle;" alt="YouTube"/>
+<img src="https://raw.githubusercontent.com/maxouxax/maxouxax/refs/heads/main/assets/youtube.svg" height="20" style="vertical-align: middle;" alt="YouTube"/>
 <span style="vertical-align: middle; margin-left: 5px;"><b>YouTube</b></span>
 </a>
 
@@ -44,9 +44,9 @@
 
 <a href="https://x.com/MAXOUXAX" target="_blank" style="text-decoration: none;">
 <picture height="16">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maxouxax/maxouxax/main/assets/x_dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maxouxax/maxouxax/main/x.svg" />
-  <img alt="Snake" src="https://raw.githubusercontent.com/maxouxax/maxouxax/main/x.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maxouxax/maxouxax/refs/heads/main/assets/x_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maxouxax/maxouxax/refs/heads/main/assets/x.svg" />
+  <img alt="Snake" height="16" src="https://raw.githubusercontent.com/maxouxax/maxouxax/refs/heads/main/assets/x.svg" />
 </picture>
 <span style="vertical-align: middle; margin-left: 5px;"><b>X (formerly Twitter)</b></span>
 </a>
@@ -54,7 +54,7 @@
 <br/><br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/maxouxax/maxouxax/main/assets/line.svg" alt="separator" width="480" />
+<img src="https://raw.githubusercontent.com/maxouxax/maxouxax/refs/heads/main/assets/line.svg" alt="separator" width="480" />
 
 <br/><br/>
 
