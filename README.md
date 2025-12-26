@@ -43,14 +43,18 @@
 &nbsp;&nbsp;
 
 <a href="https://x.com/MAXOUXAX" target="_blank" style="text-decoration: none;">
-<img src="https://raw.githubusercontent.com/maxouxax/maxouxax/main/assets/x.svg" height="16" style="vertical-align: middle;" alt="X"/>
+<picture height="16">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maxouxax/maxouxax/main/assets/x_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maxouxax/maxouxax/main/x.svg" />
+  <img alt="Snake" src="https://raw.githubusercontent.com/maxouxax/maxouxax/main/x.svg" />
+</picture>
 <span style="vertical-align: middle; margin-left: 5px;"><b>X (formerly Twitter)</b></span>
 </a>
 
 <br/><br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/maxouxax/maxouxax/main/assets/separator.svg" alt="separator" width="480" />
+<img src="https://raw.githubusercontent.com/maxouxax/maxouxax/main/assets/line.svg" alt="separator" width="480" />
 
 <br/><br/>
 
