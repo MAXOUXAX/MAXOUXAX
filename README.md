@@ -42,7 +42,7 @@
 <br/><br/>
 
 <div align="left">
-<img src="https://raw.githubusercontent.com/maxouxax/maxouxax/refs/heads/main/assets/line.svg" alt="separator" width="360" />
+<img src="https://raw.githubusercontent.com/maxouxax/maxouxax/refs/heads/main/assets/line.svg" alt="separator" width="504" />
 
 <br/><br/>
 
