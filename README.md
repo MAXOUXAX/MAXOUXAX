@@ -31,21 +31,19 @@
 
 <h4>🌐 <code>/</code> where to find me:</h4>
 
-<a href="https://www.youtube.com/MAXOUXAX" target="_blank"><img src="https://raw.githubusercontent.com/maxouxax/maxouxax/refs/heads/main/assets/youtube_button.svg" height="80" alt="YouTube"/></a>
+<a href="https://www.youtube.com/MAXOUXAX" target="_blank"><img src="https://raw.githubusercontent.com/maxouxax/maxouxax/refs/heads/main/assets/youtube_button.svg" height="60" alt="YouTube"/></a>
 <br/>
-<a href="https://x.com/MAXOUXAX" target="_blank"><img src="https://raw.githubusercontent.com/maxouxax/maxouxax/refs/heads/main/assets/x_button.svg" height="80" alt="X (formerly Twitter)"/></a>
-
-<br/><br/>
+<a href="https://x.com/MAXOUXAX" target="_blank"><img src="https://raw.githubusercontent.com/maxouxax/maxouxax/refs/heads/main/assets/x_button.svg" height="60" alt="X (formerly Twitter)"/></a>
 
 <div align="left">
 <img src="https://raw.githubusercontent.com/maxouxax/maxouxax/refs/heads/main/assets/line.svg" alt="separator" width="504" />
 
-<br/><br/>
+<br/>
 
 <picture width="350">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maxouxax/maxouxax/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maxouxax/maxouxax/output/snake-light.svg" />
-  <img alt="Snake" src="https://raw.githubusercontent.com/maxouxax/maxouxax/output/snake-light.svg" />
+  <img alt="Snake" src="https://raw.githubusercontent.com/maxouxax/maxouxax/output/snake-light.svg" width="350" />
 </picture>
 
 </div>
