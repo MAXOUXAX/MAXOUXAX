@@ -3,8 +3,6 @@
 <h3>Hi, I'm maxouxax 👋</h3>
 <p><i>Passionate computer science student</i></p>
 
-<br/>
-
 <h4>👨‍🍳 <code>/</code> non-exhaustive list of technologies I enjoy:</h4>
 
 <div>
@@ -31,24 +29,14 @@
 <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare" title="Cloudflare"/>
 </div>
 
-<br/><br/>
-
 <h4>🌐 <code>/</code> where to find me:</h4>
 
-<a href="https://www.youtube.com/MAXOUXAX" target="_blank" style="text-decoration: none;">
-<img src="https://raw.githubusercontent.com/maxouxax/maxouxax/refs/heads/main/assets/youtube.svg" height="20" style="vertical-align: middle;" alt="YouTube"/>
-<span style="vertical-align: middle; margin-left: 5px;"><b>YouTube</b></span>
+<a href="https://www.youtube.com/MAXOUXAX" target="_blank">
+  <img src="https://raw.githubusercontent.com/maxouxax/maxouxax/refs/heads/main/assets/youtube_button.svg" height="50" alt="YouTube"/>
 </a>
 
-&nbsp;&nbsp;
-
-<a href="https://x.com/MAXOUXAX" target="_blank" style="text-decoration: none;">
-<picture height="16">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maxouxax/maxouxax/refs/heads/main/assets/x_dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maxouxax/maxouxax/refs/heads/main/assets/x.svg" />
-  <img alt="Snake" height="16" src="https://raw.githubusercontent.com/maxouxax/maxouxax/refs/heads/main/assets/x.svg" />
-</picture>
-<span style="vertical-align: middle; margin-left: 5px;"><b>X (formerly Twitter)</b></span>
+<a href="https://x.com/MAXOUXAX" target="_blank">
+  <img src="https://raw.githubusercontent.com/maxouxax/maxouxax/refs/heads/main/assets/x_button.svg" height="50" alt="X (formerly Twitter)"/>
 </a>
 
 <br/><br/>
