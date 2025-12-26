@@ -1,124 +1,60 @@
-<h2 align="left">👋 Bonjour ! I'm a passionate CS student, welcome to my profile! 🎈</h2>
-
-###
-
-<img align="right" height="170" src="https://cdn.maxouxax.me/meta/github-readme-logo.gif"  />
-
-###
-
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxouxax&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxouxax&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+
+<h3>Hi, I'm maxouxax 👋</h3>
+<p><i>Passionate computer science student</i></p>
+
+<br/>
+
+<h4>👨‍🍳 <code>/</code> non-exhaustive list of technologies I enjoy:</h4>
+
+<div>
+<img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript" title="TypeScript"/>
+<img src="https://skillicons.dev/icons?i=html" height="40" alt="html" title="HTML5"/>
+<img src="https://skillicons.dev/icons?i=css" height="40" alt="css" title="CSS3"/>
+<img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue" title="Vue.js"/>
+<img src="https://skillicons.dev/icons?i=react" height="40" alt="react" title="React"/>
+<img src="https://skillicons.dev/icons?i=nuxt" height="40" alt="nuxt" title="Nuxt"/>
+<img src="https://skillicons.dev/icons?i=next" height="40" alt="next" title="Next.js"/>
+<img src="https://skillicons.dev/icons?i=grafana" height="40" alt="grafana" title="Grafana"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind" title="Tailwind CSS"/>
+<img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma" title="Figma"/>
+<br/> 
+<img src="https://skillicons.dev/icons?i=git" height="40" alt="git" title="Git"/>
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="github" title="GitHub"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode" title="VS Code"/>
+<img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker" title="Docker"/>
+<img src="https://skillicons.dev/icons?i=java" height="40" alt="java" title="Java"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres" title="PostgreSQL"/>
+<img src="https://skillicons.dev/icons?i=mongo" height="40" alt="mongo" title="MongoDB"/>
+<img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis" title="Redis"/>
+<img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite" title="Vite"/>
+<img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare" title="Cloudflare"/>
 </div>
 
-###
+<br/><br/>
 
-<h3 align="left">🧑‍🍳 Languages, technologies and tools I use</h3>
+<h4>🌐 <code>/</code> where to find me:</h4>
 
-###
+<a href="https://www.youtube.com/MAXOUXAX" target="_blank" style="text-decoration: none;">
+<img src="assets/youtube.svg" height="20" style="vertical-align: middle;" alt="YouTube"/>
+<span style="vertical-align: middle; margin-left: 5px;"><b>YouTube</b></span>
+</a>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" height="30" alt="nuxtjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="30" alt="intellijidea logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=babel" height="30" alt="babel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=webpack" height="30" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="30" alt="cloudflare logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="30" alt="adobeaftereffects logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
-</div>
+&nbsp;&nbsp;
 
-###
+<a href="https://x.com/MAXOUXAX" target="_blank" style="text-decoration: none;">
+<img src="assets/x.svg" height="16" style="vertical-align: middle;" alt="X"/>
+<span style="vertical-align: middle; margin-left: 5px;"><b>X (formerly Twitter)</b></span>
+</a>
 
-<h3 align="left">🖌️ Socials</h3>
-
-###
-
-<div align="left">
-  <a href="https://youtube.com/MAXOUXAX" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://x.com/MAXOUXAX" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://twitch.tv/MAXOUXAX" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maxouxax/maxouxax/output/snake.svg" alt="Snake animation" />
-
-###
+<br/><br/>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/maxouxax/count.svg?"  />
+<img src="assets/separator.svg" alt="separator" width="480" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/maxouxax/maxouxax/output/snake.svg" alt="Snake" width="350" />
 </div>
 
-###
+</div>
