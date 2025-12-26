@@ -53,8 +53,8 @@
 
 <br/><br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/maxouxax/maxouxax/refs/heads/main/assets/line.svg" alt="separator" width="480" />
+<div align="left">
+<img src="https://raw.githubusercontent.com/maxouxax/maxouxax/refs/heads/main/assets/line.svg" alt="separator" width="360" />
 
 <br/><br/>
 
