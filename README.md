@@ -36,25 +36,30 @@
 <h4>🌐 <code>/</code> where to find me:</h4>
 
 <a href="https://www.youtube.com/MAXOUXAX" target="_blank" style="text-decoration: none;">
-<img src="assets/youtube.svg" height="20" style="vertical-align: middle;" alt="YouTube"/>
+<img src="https://raw.githubusercontent.com/maxouxax/maxouxax/main/assets/youtube.svg" height="20" style="vertical-align: middle;" alt="YouTube"/>
 <span style="vertical-align: middle; margin-left: 5px;"><b>YouTube</b></span>
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://x.com/MAXOUXAX" target="_blank" style="text-decoration: none;">
-<img src="assets/x.svg" height="16" style="vertical-align: middle;" alt="X"/>
+<img src="https://raw.githubusercontent.com/maxouxax/maxouxax/main/assets/x.svg" height="16" style="vertical-align: middle;" alt="X"/>
 <span style="vertical-align: middle; margin-left: 5px;"><b>X (formerly Twitter)</b></span>
 </a>
 
 <br/><br/>
 
 <div align="center">
-<img src="assets/separator.svg" alt="separator" width="480" />
+<img src="https://raw.githubusercontent.com/maxouxax/maxouxax/main/assets/separator.svg" alt="separator" width="480" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/maxouxax/maxouxax/output/snake.svg" alt="Snake" width="350" />
+<picture width="350">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maxouxax/maxouxax/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maxouxax/maxouxax/output/snake-light.svg" />
+  <img alt="Snake" src="https://raw.githubusercontent.com/maxouxax/maxouxax/output/snake-light.svg" />
+</picture>
+
 </div>
 
 </div>
