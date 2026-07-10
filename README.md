@@ -31,8 +31,6 @@
 
 <h4>🌐 <code>/</code> where to find me:</h4>
 
-<a href="https://www.youtube.com/MAXOUXAX" target="_blank"><img src="https://raw.githubusercontent.com/maxouxax/maxouxax/refs/heads/main/assets/youtube_button.svg" height="60" alt="YouTube"/></a>
-<br/>
 <a href="https://x.com/MAXOUXAX" target="_blank"><img src="https://raw.githubusercontent.com/maxouxax/maxouxax/refs/heads/main/assets/x_button.svg" height="60" alt="X (formerly Twitter)"/></a>
 
 <div align="left">
